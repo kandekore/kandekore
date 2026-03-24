@@ -41,67 +41,45 @@
 
   **Frontend**
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html
-  5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat
-  &logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat
-  &logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=reac
-  t&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=
-  flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-  **Backend & Databases**
+### Backend & Databases
 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=
-  nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat
-  &logo=express)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logo
-  Color=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysq
-  l&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=
-  mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-  **CMS & E-Commerce**
+### CMS & E-Commerce
 
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&l
-  ogo=wordpress&logoColor=white)
-  ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=fl
-  at&logo=woocommerce&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
-  **Infrastructure & Hosting**
+### Infrastructure & Hosting
 
-  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=ap
-  ache&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linu
-  x&logoColor=black)
-  ![cPanel](https://img.shields.io/badge/-cPanel/WHM-FF6C2C?style=flat&log
-  o=cpanel&logoColor=white)
-  ![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=flat&logo=ples
-  k&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![cPanel](https://img.shields.io/badge/-cPanel%2FWHM-FF6C2C?style=flat&logo=cpanel&logoColor=white)
+![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)
 
-  **Marketing & Analytics**
+### Marketing & Analytics
 
-  ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?style=flat
-  &logo=googleads&logoColor=white)
-  ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E3740
-  0?style=flat&logo=googleanalytics&logoColor=white)
-  ![SEMrush](https://img.shields.io/badge/-SEMrush-FF642D?style=flat&logo=
-  semrush&logoColor=white)
-
+![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![SEMrush](https://img.shields.io/badge/-SEMrush-FF642D?style=flat&logo=semrush&logoColor=white)
   ---
 
   ### 🏅 Credentials
 
   | | |
   |---|---|
-  | 🔵 **Google Partner** | Verified — performance, spend & certification
-  requirements met. [View profile
-  ↗](https://www.google.com/partners/agency?id=4364365469) |
+  | 🔵 **Google Partner** | Verified — performance, spend & certification requirements met. [View profile↗](https://www.google.com/partners/agency?id=4364365469) |
   | 📢 **Google Certified** | Search Ads & Display Ads |
   | 🌐 **Nominet Accredited Partner** | UK domain registrar |
   | 💼 **Microsoft Channel Partner** | |
@@ -114,13 +92,9 @@
 
   <div align="center">
 
-  ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?user
-  name=kandekore&show_icons=true&theme=dark&hide_border=true&title_color=f
-  04916&icon_color=f04916&text_color=ffffff&bg_color=111111)
+  ![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kandekore&show_icons=true&theme=dark&hide_border=true&title_color=f04916&icon_color=f04916&text_color=ffffff&bg_color=111111)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?u
-  sername=kandekore&layout=compact&theme=dark&hide_border=true&title_color
-  =f04916&text_color=ffffff&bg_color=111111)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kandekore&layout=compact&theme=dark&hide_border=true&title_color=f04916&text_color=ffffff&bg_color=111111)
 
   </div>
 
