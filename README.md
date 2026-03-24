@@ -102,10 +102,9 @@
 
   ### 📫 Get In Touch
 
-  - 🌐 [darrenk.uk](https://darrenk.uk)
-  - 💼
-  [linkedin.com/in/dkandekore](https://www.linkedin.com/in/dkandekore/)
-  - 🐦 [@kandekore](https://twitter.com/kandekore)
-  - 📞 +44 (0) 7853 089 988
+🌐 [darrenk.uk](https://darrenk.uk)
+💼 [linkedin.com/in/dkandekore](https://www.linkedin.com/in/dkandekore/)
+🐦 [@kandekore](https://twitter.com/kandekore)
+📞 +44 (0) 7853 089 988
 
   > *I don't just build for clients — I build and run businesses myself.*
