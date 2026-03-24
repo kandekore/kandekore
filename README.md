@@ -4,16 +4,10 @@
   # Darren Kandekore
   ### Full-Stack Developer · Google Partner · Digital Entrepreneur
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-dkandekore-0A66C2?sty
-  le=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkan
-  dekore/)
-  [![Twitter](https://img.shields.io/badge/Twitter-@kandekore-1DA1F2?style
-  =flat&logo=twitter&logoColor=white)](https://twitter.com/kandekore)
-  [![Website](https://img.shields.io/badge/Portfolio-darrenk.uk-f04916?sty
-  le=flat&logo=firefox&logoColor=white)](https://darrenk.uk)
-  [![Google Partner](https://img.shields.io/badge/Google_Partner-Verified-
-  4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/p
-  artners/agency?id=4364365469)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-dkandekore-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkandekore/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@kandekore-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kandekore)
+  [![Website](https://img.shields.io/badge/Portfolio-darrenk.uk-f04916?style=flat&logo=firefox&logoColor=white)](https://darrenk.uk)
+  [![Google Partner](https://img.shields.io/badge/Google_Partner-Verified-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/partners/agency?id=4364365469)
 
   </div>
 
